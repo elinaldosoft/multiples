@@ -6,4 +6,4 @@ before_install:
   - gem install test-unit
 
 script:
-  - ruby -I test multiples/test_main.rb
+  - ruby -I test test_main.rb
