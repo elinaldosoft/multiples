@@ -8,7 +8,7 @@ O formato de impressão dos números precisa ser EXATAMENTE igual a esse:
 
 
 #### Git Clone
-  git clone https://github.com/elinaldosoft/multiples.git
+	git clone https://github.com/elinaldosoft/multiples.git
 
 #### How to APP
 	ruby multiples/main.rb
