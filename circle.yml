@@ -4,4 +4,5 @@ machine:
 
 test:
   override:
-    - ruby -I test multiples/test_main.rb
+    - ruby -I test multiples/multiples/test_main.rb
+
