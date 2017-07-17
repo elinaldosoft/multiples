@@ -1,5 +1,6 @@
 # encoding: utf-8
-def mult_inverval
+
+def mult_interval
 	lst = []
 	(1..100).each do |n|
 		if n % 35 == 0
