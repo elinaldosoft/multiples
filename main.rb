@@ -1,5 +1,5 @@
 # encoding: utf-8
-def mult_interval
+def mult_inverval
 	lst = []
 	(1..100).each do |n|
 		if n % 35 == 0
@@ -14,6 +14,5 @@ def mult_interval
 	end
 	lst.join(', ').encode("UTF-8")
 end
-
 
 puts mult_interval()
